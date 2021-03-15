@@ -10,5 +10,10 @@ public class Contact {
 	{
 		System.out.println("run1 in admin");
 	}
+	public void run(String app)
+	{
+		System.out.println("app");
+	}
+	
 
 }
